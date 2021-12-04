@@ -2,7 +2,7 @@
 LOCAL_APP_PATH=docker/local/rust/
 APP_NAME=app
 CARGO=cargo
-PROJECT_NAME=rust-demo
+PROJECT_NAME=rust-docker-actix-web-demo
 
 @PHONY: init up down down-init bench build check clean doc install publish run test update postgres logs
 
