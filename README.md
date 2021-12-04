@@ -61,7 +61,7 @@ Creating rust-docker-actix-web-demo_db_1  ... done
 Creating rust-docker-actix-web-demo_app_1 ... done
 ```
 
-3. check logs and to access localhost.
+3. Check logs and to access localhost.
 
 logs
 
